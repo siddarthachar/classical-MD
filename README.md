@@ -6,6 +6,7 @@ Implementation of the Green-Kubo method is useful in computing a complex thermal
 
 ### Files
 Main code (NVT + NVE + heatflux): NVE_NVT_thermalCond.cpp
+
 Post processing (Thermal Conductivity): thermal_conduct.cpp
 
 #### NOTE
